@@ -2100,12 +2100,12 @@ babel-jest@^23.6.0:
     babel-plugin-istanbul "^4.1.6"
     babel-preset-jest "^23.2.0"
 
-babel-loader@^8.0.4:
-  version "8.0.4"
-  resolved "https://registry.npmjs.org/babel-loader/-/babel-loader-8.0.4.tgz#7bbf20cbe4560629e2e41534147692d3fecbdce6"
-  integrity sha512-fhBhNkUToJcW9nV46v8w87AJOwAJDz84c1CL57n3Stj73FANM/b9TbCUK4YhdOwEyZ+OxhYpdeZDNzSI29Firw==
+babel-loader@^8.0.5:
+  version "8.0.5"
+  resolved "https://registry.npmjs.org/babel-loader/-/babel-loader-8.0.5.tgz#225322d7509c2157655840bba52e46b6c2f2fe33"
+  integrity sha512-NTnHnVRd2JnRqPC0vW+iOQWU5pchDbYXsG2E6DMXEpMfUcQKclF9gmf3G3ZMhzG7IG9ji4coL0cm+FxeWxDpnw==
   dependencies:
-    find-cache-dir "^1.0.0"
+    find-cache-dir "^2.0.0"
     loader-utils "^1.0.2"
     mkdirp "^0.5.1"
     util.promisify "^1.0.0"
@@ -2690,10 +2690,10 @@ caniuse-lite@^1.0.30000912, caniuse-lite@^1.0.30000914, caniuse-lite@^1.0.300009
   resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30000918.tgz#6288f79da3c5c8b45e502f47ad8f3eb91f1379a9"
   integrity sha512-CAZ9QXGViBvhHnmIHhsTPSWFBujDaelKnUj7wwImbyQRxmXynYqKGi3UaZTSz9MoVh+1EVxOS/DFIkrJYgR3aw==
 
-caniuse-lite@^1.0.30000926:
-  version "1.0.30000926"
-  resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30000926.tgz#4361a99d818ca6e521dbe89a732de62a194a789c"
-  integrity sha512-diMkEvxfFw09SkbErCLmw/1Fx1ZZe9xfWm4aeA2PUffB48x1tfZeMsK5j4BW7zN7Y4PdqmPVVdG2eYjE5IRTag==
+caniuse-lite@^1.0.30000927:
+  version "1.0.30000927"
+  resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30000927.tgz#114a9de4ff1e01f5790fe578ecd93421c7524665"
+  integrity sha512-ogq4NbUWf1uG/j66k0AmiO3GjqJAlQyF8n4w8a954cbCyFKmYGvRtgz6qkq2fWuduTXHibX7GyYL5Pg58Aks2g==
 
 capture-exit@^1.2.0:
   version "1.2.0"
@@ -4250,10 +4250,10 @@ eslint-module-utils@^2.2.0:
     debug "^2.6.8"
     pkg-dir "^1.0.0"
 
-eslint-multiplexer@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.npmjs.org/eslint-multiplexer/-/eslint-multiplexer-1.0.2.tgz#8cce47bbeac7f448617b714245860aa6e5c38941"
-  integrity sha512-H8fIwGwrydqyGs9n10VPr5zt2PPYsAiRrDKcWtE4aw1w+JGzj+DBYc4wvp+ptGwGi/4YCkjsmIkDZQrGgv5axg==
+eslint-multiplexer@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.npmjs.org/eslint-multiplexer/-/eslint-multiplexer-1.0.3.tgz#8bba4c28ee81e5267a6a28004af63b50c1ad8c94"
+  integrity sha512-wvJqYkLnJAOE480S3/0FKdjiY7oFIV+lsU0DWxUINQbTTxT0dN1XSkT06QQeu74wjpwsWdb1UNWPSWo6T0QyGQ==
   dependencies:
     cross-spawn "^6.0.5"
     minimist "^1.2.0"
